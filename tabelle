@@ -1,15 +1,12 @@
-
 <!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <title>NBA Tabellenstand 2026/27</title>
+<head
+
 </head>
 <body>
 
     <h1>NBA Tabellenstand 2026/27</h1>
 
-    <h2>Eastern Conference</h2>
+    <h2>Eastern Conference (Top 5) </h2>
 
     <table border="1">
         <tr>
@@ -18,39 +15,53 @@
             <th>Siege</th>
             <th>Niederlagen</th>
         </tr>
+		
+		
         <tr>
             <td>1</td>
             <td>Detroit Pistons</td>
             <td>3</td>
-            <td>0</td>
+            <td>1</td>
         </tr>
+		
+		
         <tr>
             <td>2</td>
             <td>Philadelphia 76ers</td>
             <td>3</td>
             <td>1</td>
         </tr>
+		
+		
         <tr>
             <td>3</td>
             <td>Charlotte Hornets</td>
             <td>3</td>
             <td>1</td>
         </tr>
+		
+		
         <tr>
+            <td>5</td>
+            <td>Boston Celtics</td>
+            <td>3</td>
+            <td>1</td>
+        </tr>
+		
+		
+		 <tr>
             <td>4</td>
             <td>Toronto Raptors</td>
             <td>2</td>
             <td>1</td>
         </tr>
-        <tr>
-            <td>5</td>
-            <td>Boston Celtics</td>
-            <td>2</td>
-            <td>1</td>
-        </tr>
-    </table>
+	
+	
+	</table>
 
-    <h2>Western Conference</h2>
+	
+	
+    <h2>Western Conference (Top 5) </h2>
 
     <table border="1">
         <tr>
@@ -59,36 +70,48 @@
             <th>Siege</th>
             <th>Niederlagen</th>
         </tr>
+		
+		
         <tr>
             <td>1</td>
             <td>Houston Rockets</td>
             <td>4</td>
             <td>0</td>
         </tr>
+		
+		
         <tr>
             <td>2</td>
             <td>Oklahoma City Thunder</td>
             <td>4</td>
             <td>0</td>
         </tr>
+		
+		
         <tr>
             <td>3</td>
             <td>Memphis Grizzlies</td>
             <td>4</td>
             <td>0</td>
         </tr>
+		
+		
+		<tr>
+            <td>5</td>
+            <td>Portland Trail Blazers</td>
+            <td>3</td>
+            <td>0</td>
+        </tr>
+		
+		
         <tr>
             <td>4</td>
             <td>Los Angeles Lakers</td>
             <td>3</td>
-            <td>0</td>
+            <td>1</td>
         </tr>
-        <tr>
-            <td>5</td>
-            <td>Portland Trail Blazers</td>
-            <td>2</td>
-            <td>0</td>
-        </tr>
+		
+		
     </table>
 
 </body>
